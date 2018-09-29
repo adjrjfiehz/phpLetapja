@@ -1,0 +1,3 @@
+This file is empty but required. Because while commit it will not commit empty folder. And this folder necessary to save pdf files. 
+
+So, Please don't delete this file.
